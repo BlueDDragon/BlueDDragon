@@ -1,7 +1,5 @@
 <h1 align='center'> Hi there 👋 </h1>
 
----
-
 <br/>
 
 ### 🔗 Link
@@ -42,6 +40,10 @@
 
 <br/>
 
+
+---
+
+
 ### 📊 GitHub Stats
 
 <!-- profile/stats.svg, profile/top-langs.svg 는 GitHub Actions가 자동 생성합니다 -->
@@ -53,6 +55,7 @@
 <img height="160" src="./profile/top-langs.svg" />
 
 </div>
+
 
 ---
 
